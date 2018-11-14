@@ -1,5 +1,7 @@
 # Phaser-StarsDownAndUp
-This is just an example about move of objects to down and to up
+#This is just an example about move of objects to down and to up
+
+
 var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
 
 var star1;
